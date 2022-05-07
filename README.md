@@ -10,7 +10,7 @@ by Muhammad Ahmad https://github.com/MA-Ahmad
 
 https://mahmad.me/
 
-https://github.com/MA-Ahmad/myPortfolio
+https://github.com/MA-Ahmad/dev.to-clone
 
 ## Environment Values
 
